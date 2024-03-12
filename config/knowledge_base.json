@@ -1,0 +1,9 @@
+{
+  "questions": [
+    {"variants": ["create an account", "how to create an account", "account creation"], "answer": "您可以在网站上注册一个新账户。"},
+    {"variants": ["reset password", "forgot password", "How to reset password"], "answer": "您可以在网站上注册一个新账户。"},
+    {"variants": ["创建一个账号", "如何创建账号", "账号创建"], "answer": "您可以在网站上注册一个新账户。"},
+    {"variants": ["重置密码", "忘记密码", "如何重置密码"], "answer": "您可以在登录页面点击“忘记密码”链接进行密码重置。"},
+    {"variants": ["联系客服", "如何联系客服", "客服联系方式"], "answer": "您可以发送电子邮件至support@example.com联系客服。"}
+  ]
+}
